@@ -4,3 +4,5 @@ _mysql_alias_set() {
 }
 
 _mysql_alias_set
+
+unset -f _mysql_alias_set
